@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-09-13 10:54-0400\n"
+"PO-Revision-Date: 2019-12-13 18:15-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: admin/partials\n"
+"X-Poedit-SearchPath-1: public/partials\n"
+
+# Admin server settings
+msgid "Rooms"
+msgstr "JoinIN"
+
+msgid "Room Settings"
+msgstr "تنظیمات اتاق"
+
+msgid "Server"
+msgstr "سرور"
+
+msgid "The server settings explanation."
+msgstr ""
+"The settings listed below determine the JoinIN server that will be used for the live "
+"sessions."
+
+msgid "EndPoint"
+msgstr "آدرس API"
+
+msgid "Shared Secret"
+msgstr "کلید API"
+
+msgid "Example"
+msgstr "مثال"
+
+msgid "Default server settings 1. Default server settings 2."
+msgstr ""
+"Note that the values included by default are using a FREE JoinIN server provided by "
+"<Faryan I.C.>. They have to be replaced with the parameters obtained from a server "
+"better suited for production."
+
+msgid "Save server settings success message."
+msgstr "تبریک! تنظیمات با موفقیت ذخیره شد."
+
+msgid "Save server settings bad url error message."
+msgstr "خطا: توجه کنید که انتهای آدرس باید علامت '/' باشد."
+
+msgid "Save server settings bad server settings error message."
+msgstr ""
+"خطا: اتصال به سرور میسر نمی‌باشد. آیا از تنظیمات خود مطمئن هستید؟ "
+
+# Admin Room settings
+msgid "Add New"
+msgstr "افزودن"
+
+msgid "Add New Room"
+msgstr "افزودن اتاق"
+
+msgid "Edit Room"
+msgstr "ویرایش اتاق"
+
+msgid "View Room"
+msgstr "مشاهده اتاق"
+
+msgid "View Rooms"
+msgstr "مشاهده اتاق‌ها"
+
+msgid "Search Rooms"
+msgstr "جستجوی اتاق‌ها"
+
+msgid "No rooms found"
+msgstr "هیچ اتاقی یافت نشد"
+
+msgid "No rooms found in trash"
+msgstr "هیچ اتاقی در زباله‌دان یافت نشد"
+
+msgid "All Rooms"
+msgstr "همه اتاق‌ها"
+
+msgid "New Room"
+msgstr "اتاق جدید"
+
+msgid "Room Archives"
+msgstr "آرشیو اتاق‌ها"
+
+msgid "Insert into room"
+msgstr "وارد‌کردن در اتاق"
+
+msgid "Uploaded to this room"
+msgstr "بارگذاری‌شده در اتاق"
+
+msgid "Filter rooms list"
+msgstr "فیلتر‌کردن"
+
+msgid "Rooms list navigation"
+msgstr "مرور"
+
+msgid "Rooms list"
+msgstr "لیست اتاق‌ها"
+
+msgid "Room published"
+msgstr "اتاق منتشر شد"
+
+msgid "Room published privately"
+msgstr "اتاق خصوصی منتشر شد"
+
+msgid "Room reverted to draft"
+msgstr "اتاق پی‌نویس شد"
+
+msgid "Room scheduled"
+msgstr "زمان‌بندی اتاق"
+
+msgid "Room updated"
+msgstr "اتاق به‌روز شد"
+
+msgid "Moderator Code"
+msgstr "رمز مدیر"
+
+msgid "Viewer Code"
+msgstr "رمز شرکت‌کنندگان"
+
+msgid "Recordable"
+msgstr "ضبط فعال"
+
+msgid "true"
+msgstr "بله"
+
+msgid "false"
+msgstr "خیر"
+
+# Room description
+msgid "Join"
+msgstr "ملحق‌شدن"
+
+msgid "Wait for Moderator"
+msgstr "لطفا منتظر شروع جلسه باشید"
+
+# Recordings description
+msgid "Meeting"
+msgstr "جلسه/کلاس"
+
+msgid "Recording"
+msgstr "فایل ضبط شده"
+
+msgid "Recordings"
+msgstr "فایل‌های ضبط شده"
+
+msgid "Manage"
+msgstr "مدیریت"
+
+msgid "Expand recordings"
+msgstr "فایل‌های ضبط شده"
+
+msgid "Collapse recordings"
+msgstr "فایل‌های ضبط شده"
+
+msgid "Statistics"
+msgstr "آمار"
+
+msgid "Presentation"
+msgstr "ارائه"
+
+msgid "Video"
+msgstr "ویدئو"
+
+msgid "Protected"
+msgstr "خصوصی"
+
+msgid "Unprotected"
+msgstr "عمومی"
+
+# Migration Error Messages
+msgid "Failed to import the room, %s."
+msgstr "Failed to import the room, %s."
+
+msgid "Not all rooms were able to be imported to the new version."
+msgstr "Not all rooms were able to be imported to the new version."
+
+msgid "Not all room logs were able to be imported to the new version."
+msgstr "Not all room logs were able to be imported to the new version."
+
+# Error messages
+msgid "The form has expired or is invalid. Please try again."
+msgstr "The form has expired or is invalid. Please try again."
+
+msgid "You do not have permission to enter the room. Please request permission."
+msgstr "You do not have permission to enter the room. Please request permission."
+
+msgid "The access code you have entered is incorrect. Please try again."
+msgstr "The access code you have entered is incorrect. Please try again."
+
+msgid ""
+"It is currently not possible to create rooms on the server. Please contact support for help."
+msgstr ""
+"It is currently not possible to create rooms on the server. Please contact support for help."
+
+msgid "JoinIN works best with the heartbeat API enabled. Please enable it."
+msgstr "JoinIN works best with the heartbeat API enabled. Please enable it."
+
+# Public strings
+msgid "Access Code"
+msgstr "رمز دسترسی"
+
+msgid "This room does not currently have any recordings."
+msgstr "در حال حاضر فایل ضبط برای این اتاق وجود ندارد."
+
+msgid ""
+"The meeting has not started yet. You will be automatically redirected to the meeting when it "
+"starts."
+msgstr ""
+"این جلسه هنوز شروع نشده است. پس از شروع جلسه، به طور خودکار به آن وارد خواهید شد."
+
+msgid ""
+"The meeting has not started yet. Please wait for a moderator to start the meeting before "
+"joining."
+msgstr ""
+"این جلسه هنوز شروع نشده است. لطفا منتظر شروع جلسه باشید."
+
+msgid "The token: %s is not associated with a published room."
+msgstr "The token: %s is not associated with a published room."
+
+msgid "The token: %s is not associated with an existing room."
+msgstr "The token: %s is not associated with an existing room."
+
+msgid "This user does not have permission to display any rooms in a shortcode or widget."
+msgstr "This user does not have permission to display any rooms in a shortcode or widget."
+
+msgid "The room linked to this resource is not configured correctly."
+msgstr "The room linked to this resource is not configured correctly."
+
+# Widget strings
+msgid "Room selection"
+msgstr "انتخاب اتاق"
+
+msgid "Displays a JoinIN login form."
+msgstr "نمایش صفحه لاگین JoinIN"
+
+msgid "There are no rooms in the selection."
+msgstr "اتاقی انتخاب نشده است."
