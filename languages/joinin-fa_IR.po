@@ -177,7 +177,7 @@ msgstr "عمومی"
 
 # Migration Error Messages
 msgid "Failed to import the room, %s."
-msgstr "Failed to import the room, %s."
+msgstr "وارد کردن اتاق با خطا مواجه شد، %s."
 
 msgid "Not all rooms were able to be imported to the new version."
 msgstr "Not all rooms were able to be imported to the new version."
@@ -187,18 +187,18 @@ msgstr "Not all room logs were able to be imported to the new version."
 
 # Error messages
 msgid "The form has expired or is invalid. Please try again."
-msgstr "The form has expired or is invalid. Please try again."
+msgstr "فرم نامعتبر است. در صورت تکرار خطا، دسترسی شما محدود خواهد شد!"
 
 msgid "You do not have permission to enter the room. Please request permission."
-msgstr "You do not have permission to enter the room. Please request permission."
+msgstr "شما به این جلسه دسترسی ندارید. در صورت تکرار خطا، دسترسی شما محدود خواهد شد!"
 
 msgid "The access code you have entered is incorrect. Please try again."
-msgstr "The access code you have entered is incorrect. Please try again."
+msgstr "رمز دسترسی نامعتبر است. در صورت تکرار خطا، دسترسی شما محدود خواهد شد!"
 
 msgid ""
 "It is currently not possible to create rooms on the server. Please contact support for help."
 msgstr ""
-"It is currently not possible to create rooms on the server. Please contact support for help."
+"ارتباط با سرویس دهنده برقرار نمی‌باشد. لطفا با مدیر سامانه تماس بگیرید..."
 
 msgid "JoinIN works best with the heartbeat API enabled. Please enable it."
 msgstr "JoinIN works best with the heartbeat API enabled. Please enable it."
